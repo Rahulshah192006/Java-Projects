@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 
-public class ATM
+public class Machine
 {
 
     public static void main(String args[] )
